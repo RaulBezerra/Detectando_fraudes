@@ -1,5 +1,5 @@
 # Detectando_fraudes
-Estudo de caso de utilização de algoritmo de Machine Learning para detecção de fraudes em e-commerce
+Estudo de caso de utilização de algoritmo de Machine Learning para detecção de fraudes em e-commerce.
 
 - **Problema**: Muitas fraudes foram identificadas no último ano de um e-commerce;
 
